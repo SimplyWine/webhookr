@@ -1,0 +1,14 @@
+README.html
+*.orig
+.*.swp
+.*.swo
+*.tmp
+*.patch
+*.kpf
+*~
+.DS_Store
+Thumbs.db
+Gemfile.lock
+Gemfile.local
+Guardfile.local
+*.log
